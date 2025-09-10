@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: b9f81a1ec0a3d4543bbf6af682803f88
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326925
+  packageName: Free Outline
+  packageVersion: 1.0.0
+  assetPath: Packages/dev.ameye.linework-lite/Editor/FreeOutline/ToggleSmoothNormals.cs
+  uploadId: 773802

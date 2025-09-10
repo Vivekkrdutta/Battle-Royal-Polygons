@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab49394693d4b274a9439e28c5fec0d4, type: 3}
+  m_Name: BulletsPrefabsSO
+  m_EditorClassIdentifier: 
+  BulletTrailPrefabsList:
+  - {fileID: 659906554657116861, guid: 2298236a23b5c4349b5f8204068aadf3, type: 3}
+  - {fileID: 659906554657116861, guid: 47fc5a14f73c98e4e9cbe9d463258883, type: 3}
+  - {fileID: 659906554657116861, guid: d8aa96ea7c49df94a8bb44c6e64e8781, type: 3}

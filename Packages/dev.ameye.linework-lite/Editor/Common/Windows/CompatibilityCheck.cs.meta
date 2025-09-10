@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 7c29ef28314c74c3d9fab83147b5ce8a
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326925
+  packageName: Free Outline
+  packageVersion: 1.0.0
+  assetPath: Packages/dev.ameye.linework-lite/Editor/Common/Windows/CompatibilityCheck.cs
+  uploadId: 773802

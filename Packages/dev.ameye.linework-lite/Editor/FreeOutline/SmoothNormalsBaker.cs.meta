@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 0fa566265192841ad915b182ba7649f6
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326925
+  packageName: Free Outline
+  packageVersion: 1.0.0
+  assetPath: Packages/dev.ameye.linework-lite/Editor/FreeOutline/SmoothNormalsBaker.cs
+  uploadId: 773802

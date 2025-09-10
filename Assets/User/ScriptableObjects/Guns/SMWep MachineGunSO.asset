@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352f59cbc990c8b40bce1bc616f67136, type: 3}
+  m_Name: SMWep MachineGunSO
+  m_EditorClassIdentifier: 
+  Self:
+    LocalPosition: {x: 2.9, y: 0.3, z: -3.3}
+    LocalRotation: {x: 0, y: 270, z: 0}
+    LocalScale: {x: 110, y: 110, z: 110}
+  LeftHandPlace:
+    LocalPosition: {x: -16.8, y: -4.2, z: -12.8}
+    LocalRotation: {x: 304.158, y: 177.95876, z: 233.16022}
+    LocalScale: {x: 0, y: 0, z: 0}
+  GunType: 2
+  ExposivePower: 77
+  DamageAmount: 28
+  RateOfFire: 7
+  Range: 85
+  Recoil: 10
+  Spread: 5
+  ReloadTime: 2
+  Sensitivity: 0.301
+  AmmoCapacity: 150
+  GunVisualSprite: {fileID: 21300000, guid: 1e449b7e4a87ffb48bb70c753cd43fed, type: 3}
+  GunVisualSpriteStraight: {fileID: 21300000, guid: b3845e4d606bf3947b7188f4a1da1cbd, type: 3}
+  CursorSprite: {fileID: 21300000, guid: e4fa8d5cbc85f214297ce7de14b56d3f, type: 3}
+  AmmoVisualSprite: {fileID: 21300000, guid: bfe5013bfafbfbc49a4917cecb49051a, type: 3}
+  Name: SM Wep
+  FullName: Semi Machine Gun
+  DescriptionOneLine: Higest rounds you can get
+  FireSounds:
+  - {fileID: 8300000, guid: 779a2065ddbe1664b83a00c7ab943eae, type: 3}
+  - {fileID: 8300000, guid: 200b3d068e82f3a41bba9de88d13da81, type: 3}
+  - {fileID: 8300000, guid: 94c211b6bdab3b149a34d99d608462a1, type: 3}
+  - {fileID: 8300000, guid: abe8204e2a25d1b45966e3eae5b4b87e, type: 3}
+  - {fileID: 8300000, guid: f3c679889180a9a49bec3944c285446f, type: 3}
+  - {fileID: 8300000, guid: c22936cdf40edbf46ad4e9f1624627a4, type: 3}
+  - {fileID: 8300000, guid: e9fc44bb3af3b4341a7fd78c9146c0b3, type: 3}
+  - {fileID: 8300000, guid: a853798cb7e8aed498ed57812d53c15f, type: 3}
+  - {fileID: 8300000, guid: 18a9ddb7bdf65284d918c199182fb045, type: 3}
+  - {fileID: 8300000, guid: 91ce3cbac1349e54f97c40a3ce6875b4, type: 3}
+  - {fileID: 8300000, guid: 9cb3917a8d870a04792d6aec21bdf8a9, type: 3}
+  - {fileID: 8300000, guid: bfbb426b64b53a04482590b620a80aa9, type: 3}
+  - {fileID: 8300000, guid: cb929721de42a5344a23ce1b77134d29, type: 3}

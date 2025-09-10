@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: a9a5c1e6b353f0c49bf09c169d0fba9d
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 7
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 284029
+  packageName: 'SCI-FI GUNS : GAME OF WEAPONS'
+  packageVersion: 1.0
+  assetPath: Assets/Sci-Fi_Guns_Game-Of-Weapons/Audio/SFX/Wave/Single_Gunshots/Single_Gunshot_Sci-Fi_Gun-101.wav
+  uploadId: 661435

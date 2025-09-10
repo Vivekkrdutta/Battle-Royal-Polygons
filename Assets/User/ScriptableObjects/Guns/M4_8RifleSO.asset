@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352f59cbc990c8b40bce1bc616f67136, type: 3}
+  m_Name: M4_8RifleSO
+  m_EditorClassIdentifier: 
+  Self:
+    LocalPosition: {x: -16.7, y: 2.6, z: 0}
+    LocalRotation: {x: 0, y: 90, z: 0}
+    LocalScale: {x: 120, y: 120, z: 120}
+  LeftHandPlace:
+    LocalPosition: {x: -17.3, y: -5.7, z: -10.3}
+    LocalRotation: {x: 304.158, y: 177.95874, z: 233.16023}
+    LocalScale: {x: 0, y: 0, z: 0}
+  GunType: 0
+  ExposivePower: 5
+  DamageAmount: 50
+  RateOfFire: 10
+  Range: 80
+  Recoil: 10
+  Spread: 15
+  ReloadTime: 1.5
+  Sensitivity: 0.68
+  AmmoCapacity: 45
+  GunVisualSprite: {fileID: 21300000, guid: 151d5a8172ac79c45899bf673f8e7096, type: 3}
+  GunVisualSpriteStraight: {fileID: 21300000, guid: bc0196bf33d367b448ae884fdb002b2c, type: 3}
+  CursorSprite: {fileID: 21300000, guid: 8c89ed5746a4faa48bb97701cc2f2e35, type: 3}
+  AmmoVisualSprite: {fileID: 21300000, guid: ae7b134a3e04ef9409b6a3a2a6adafeb, type: 3}
+  Name: M4-8
+  FullName: M4-8 Rifle
+  DescriptionOneLine: Highest rifle damage.
+  FireSounds:
+  - {fileID: 8300000, guid: 83f8e32368bf0324f8687b2c52e52bc0, type: 3}
+  - {fileID: 8300000, guid: 14bf14f189412c34583a7eaa8658868a, type: 3}
+  - {fileID: 8300000, guid: ae636ec14d9577b448eb863a09e894f1, type: 3}
+  - {fileID: 8300000, guid: e33e9011774f3ec479eb19435700527d, type: 3}
+  - {fileID: 8300000, guid: 1dea84002d24b7344bba8715a318d01a, type: 3}
+  - {fileID: 8300000, guid: ace3948c0b825bd4a9318076359d2777, type: 3}
+  - {fileID: 8300000, guid: 89573f7baeb8f8345946674021cf179b, type: 3}
+  - {fileID: 8300000, guid: 387e6f2c3dc69bd4392f9399f57dbba2, type: 3}
+  - {fileID: 8300000, guid: 2f55f66f66edfe94c864ca54e64f465b, type: 3}
+  - {fileID: 8300000, guid: a8191c8ec91d9a546bfec2d5873a9d6d, type: 3}
+  - {fileID: 8300000, guid: eb8a23171b9d81042854d6741318a376, type: 3}

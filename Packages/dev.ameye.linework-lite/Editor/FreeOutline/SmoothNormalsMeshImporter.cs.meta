@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 10ce77a8b6d764e05b51b674fd21e042
+AssetOrigin:
+  serializedVersion: 1
+  productId: 326925
+  packageName: Free Outline
+  packageVersion: 1.0.0
+  assetPath: Packages/dev.ameye.linework-lite/Editor/FreeOutline/SmoothNormalsMeshImporter.cs
+  uploadId: 773802

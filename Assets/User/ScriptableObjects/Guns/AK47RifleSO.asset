@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352f59cbc990c8b40bce1bc616f67136, type: 3}
+  m_Name: AK47RifleSO
+  m_EditorClassIdentifier: 
+  Self:
+    LocalPosition: {x: -10.9, y: 6.3, z: 0}
+    LocalRotation: {x: 0, y: 90, z: 0}
+    LocalScale: {x: 110, y: 110, z: 110}
+  LeftHandPlace:
+    LocalPosition: {x: -17.3, y: -5.7, z: -10.3}
+    LocalRotation: {x: 304.158, y: 177.95874, z: 233.16023}
+    LocalScale: {x: 0, y: 0, z: 0}
+  GunType: 0
+  ExposivePower: 15
+  DamageAmount: 40
+  RateOfFire: 10
+  Range: 70
+  Recoil: 10
+  Spread: 12
+  ReloadTime: 1.5
+  Sensitivity: 0.67
+  AmmoCapacity: 60
+  GunVisualSprite: {fileID: 21300000, guid: 08ebc92aeeab3ac428f3cc78118564ce, type: 3}
+  GunVisualSpriteStraight: {fileID: 21300000, guid: 3ba7c677e4f24a6419849c2dd7d1049d, type: 3}
+  CursorSprite: {fileID: 21300000, guid: 8c89ed5746a4faa48bb97701cc2f2e35, type: 3}
+  AmmoVisualSprite: {fileID: 21300000, guid: b5971919d9ebdad4e8db8460bf48cf41, type: 3}
+  Name: AK
+  FullName: Akraft "47"
+  DescriptionOneLine: The favourite . All rounder.
+  FireSounds:
+  - {fileID: 8300000, guid: 79eb3a35d40f88d499f634b1ba6b337f, type: 3}
+  - {fileID: 8300000, guid: 18186805115e3914fa2ce3310eac7da8, type: 3}
+  - {fileID: 8300000, guid: 5d6f7813693b4db4e996d1d3937d28c9, type: 3}
+  - {fileID: 8300000, guid: b2f57fd39895a304b87078a5a93c7179, type: 3}
+  - {fileID: 8300000, guid: 5f3b376faffee1a40a7912e7c7ad9b1e, type: 3}
+  - {fileID: 8300000, guid: 461fd7a4cede7f2449da287c499a92b4, type: 3}
+  - {fileID: 8300000, guid: b47eea3c83f3afe479aa62d83c580b6d, type: 3}
+  - {fileID: 8300000, guid: 53cab3056487a164eb2f322989c952e1, type: 3}
+  - {fileID: 8300000, guid: 558aafeaa24e59748a97f0d822986b43, type: 3}
+  - {fileID: 8300000, guid: e01967990e211a048807e646fba18224, type: 3}
+  - {fileID: 8300000, guid: 3938bf404d2202f4eab4b0224c40d69f, type: 3}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 352f59cbc990c8b40bce1bc616f67136, type: 3}
+  m_Name: LaserShotgunSO
+  m_EditorClassIdentifier: 
+  Self:
+    LocalPosition: {x: 2, y: -1.3, z: 0.3}
+    LocalRotation: {x: 0, y: 270, z: 0}
+    LocalScale: {x: 110, y: 110, z: 110}
+  LeftHandPlace:
+    LocalPosition: {x: -17.7, y: -0.6, z: -6.9}
+    LocalRotation: {x: 346.2451, y: 221.57828, z: 214.49188}
+    LocalScale: {x: 0, y: 0, z: 0}
+  GunType: 1
+  ExposivePower: 600
+  DamageAmount: 500
+  RateOfFire: 0.5
+  Range: 100
+  Recoil: 5
+  Spread: 5
+  ReloadTime: 1
+  Sensitivity: 0.264
+  AmmoCapacity: 10
+  GunVisualSprite: {fileID: 21300000, guid: 2bf538f0b91b59e48aa0431c7efcca93, type: 3}
+  GunVisualSpriteStraight: {fileID: 21300000, guid: 5a26497a381ff8646a1a85dce3491518, type: 3}
+  CursorSprite: {fileID: 21300000, guid: 56f8165bc8b0a98419e06f018a808c4c, type: 3}
+  AmmoVisualSprite: {fileID: 21300000, guid: 29cbfb88b3cc7874cb8a50d4939d6816, type: 3}
+  Name: LS_Kavila
+  FullName: Laser Kayala
+  DescriptionOneLine: Energy Explosions Shotgun
+  FireSounds:
+  - {fileID: 8300000, guid: 60ec1afdb162ed64aa89d907c68154df, type: 3}
