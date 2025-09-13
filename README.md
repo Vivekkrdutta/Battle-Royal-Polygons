@@ -74,4 +74,15 @@ Addtional ( Extra ) features:
 Chose your character, weapons and hit ready when done. Match starts when all players are ready.
 
 ## The Game 🎯
-[![Play on Itch.io](https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)]([https://your-itch-link.itch.io/your-game](https://vivekkrdutta03.itch.io/battle-royal-polygon-edition))
+
+[![Play on Itch.io](https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://vivekkrdutta03.itch.io/battle-royal-polygon-edition)  [![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://vivekkrdutta03.itch.io/battle-royal-polygon-windows)
+
+## ⏬ Installation
+
+1. **Copy and paste** the following command in your terminal to clone the repository:  
+
+   ```bash
+   git clone https://github.com/Vivekkrdutta/Battle-Royal-Polygons.git
+    ```
+   
+
