@@ -85,4 +85,26 @@ Chose your character, weapons and hit ready when done. Match starts when all pla
    git clone https://github.com/Vivekkrdutta/Battle-Royal-Polygons.git
     ```
    
+## Guns ( for Developers )
 
+Heres a simplied tutorial of how to add a new gun model to the game.
+<table>
+  <tr>
+    <td width="250"><img src="Images/Weapons/GunSO.png" alt="Gunso image" height="500"/></td>
+    <td valign="top">1.This is a GunSO image. Go to Right cilck -> Create -> Scriptable Objects -> GunSO.<br> The self field contains the local orientation details of the Gun model. The Left Hand Target field contains the target field as shown in the below image.<br><br>
+    <img src="Images/Weapons/Screenshot 2025-09-11 013436.png"/>
+    </td>
+  </tr>
+</table>
+2. Next, Place the 3d gun model inside the **GunsHolder** parent of the Character ( above image ).Attach the FireArm Script to it. Also, it it is a grenade attach the Grenade Script. Setup the transform values of the LeftHandIkTarget and the Gun itself. Copy the suitable transform values int the created "GunSO" script.
+<table>
+  <tr>
+    <td><img src="Images/Weapons/Ak_47_FireArm.png"/></td>
+    <td>
+      <img src="Images/Weapons/grenade_Launcher_FireArm.png"/>
+    </td>
+  </tr>
+</table>
+3. The blasts of the guns must be in the GameMultiplayer's ( *See Assets->User->Prefabs*) Blast Lists.
+4. The Created Gun must be added to the GunsListSO's ( User->Scriptable Objects ) FireArmList.
+5. You are ready now to add a new gun.
