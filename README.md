@@ -75,7 +75,7 @@ Chose your character, weapons and hit ready when done. Match starts when all pla
 
 ## The Game 🎯
 
-[![Play on Itch.io](https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://vivekkrdutta03.itch.io/battle-royal-polygon-edition)  [![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://vivekkrdutta03.itch.io/battle-royal-polygon-windows)
+[![Play on Itch.io](https://img.shields.io/badge/Play%20on-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://thepelicanpresents.itch.io/battle-royal-polygon-edition)  [![Download for Windows](https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows&logoColor=white)](https://thepelicanpresents.itch.io/battle-royal-polygon-windows)
 
 ## ⏬ Installation
 
