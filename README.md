@@ -96,7 +96,7 @@ Heres a simplied tutorial of how to add a new gun model to the game.
     </td>
   </tr>
 </table>
-2. Next, Place the 3d gun model inside the **GunsHolder** parent of the Character ( above image ).Attach the FireArm Script to it. Also, it it is a grenade attach the Grenade Script. Setup the transform values of the LeftHandIkTarget and the Gun itself. Copy the suitable transform values int the created "GunSO" script.
+2. Next, Place the 3d gun model inside the **GunsHolder** parent of the Character ( above image ).Attach the FireArm Script to it. Also, if it is a grenade launcher then attach the GrenadeLauncher Script. Setup the transform values of the LeftHandIkTarget and the Gun itself. Copy the suitable transform values int the created "GunSO" script.
 <table>
   <tr>
     <td><img src="Images/Weapons/Ak_47_FireArm.png"/></td>
